@@ -1,7 +1,56 @@
 # 💫 About Me:
-👋 About Me<br>Hi there! I'm Aaditya Thakur, a passionate learner currently pursuing a B.Tech in Artificial Intelligence and Machine Learning from the School of Information Technology (SOIT).<br><br>💡 Interests<br>I'm deeply enthusiastic about the endless possibilities in AI/ML and Cloud Computing. My focus is on building smart, scalable, and cloud-native applications that solve real-world problems.<br><br>🧠 What I Do<br>👨‍💻 I build projects in Python, ranging from automation tools to AI-powered applications.<br><br>☁️ I'm skilled in Google Cloud Platform with hands-on experience in:<br><br>Bigtable<br><br>Looker Studio<br><br>Compute Engine (VM Instances)<br><br>Cloud Run<br><br>Generative AI App Base<br><br>Cloud Functions<br><br>🧠 I’ve explored Microsoft’s AI ecosystem through Microsoft Learn for AI and Azure Cloud Skills, working on:<br><br>Cognitive services<br><br>Machine learning models on Azure<br><br>Cloud automation using Azure Functions<br><br>📜 Certifications<br>✅ Google IT Automation with Python Professional Certificate<br><br>✅ Google Cloud Skills Boost – Bigtable, Looker, Cloud Run, Gen AI Apps, and more<br><br>✅ Microsoft Learn – AI & Azure Cloud Foundations<br><br>🔧 Tools I Use<br>Python | Git & GitHub | Google Workspace<br><br>Google Cloud Platform | Microsoft Azure<br><br>Jupyter Notebook | VS Code<br><br>🚀 Let's Connect<br>If you're interested in collaborating on Python, AI, or cloud-based projects—or just want to chat about tech—feel free to reach out or check out my repositories!<br><br>
+# 👋 Hi there! I'm Aaditya Thakur
 
+### 🤖 Aspiring AI Automation Engineer & Entrepreneur
+*2nd Year B.Tech in AI & Machine Learning | School of Information Technology (SOIT)*
 
+I am an engineer focused on the intersection of **Generative AI** and **Process Automation**. I don't just build scripts; I build autonomous agents and workflows that solve tangible problems. My goal is to leverage Large Language Models (LLMs) to orchestrate complex business and personal tasks.
+
+---
+
+### 💡 Core Interests
+* **AI Automation:** Orchestrating workflows using **n8n**, **Python**, and **Power Automate**.
+* **Generative AI:** Building **RAG pipelines**, exploring open-source embedding models, and working with image/video generation (Flux, AnimateDiff).
+* **Agentic Workflows:** Developing **MCP (Model Context Protocol)** servers to give AI models access to local file systems and tools.
+* **Entrepreneurship:** Applying technology to build scalable business solutions.
+
+---
+
+### 🧠 What I'm Building
+I move fast and build practical tools. Here are a few highlights:
+
+* **🚀 Personal AI Assistant (Telegram):** A fully integrated agent that manages my Gmail, Calendar, and Tasks through a simple Telegram chat interface.
+* **🛡️ Secure File Management MCP Server:** A custom Model Context Protocol server allowing Claude Desktop to safely read/write and manage internal files.
+* **💬 AV ChatFriends:** A generic ChatGPT-like web interface for interacting with local AI models (running via Docker).
+* **🕸️ Automated Outreach Systems:** Complex n8n workflows utilizing Google Search scraping and SQL to identify and organize professional leads.
+
+---
+
+### 🛠️ Technical Stack
+
+| Domain | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | Python (DSA focus), SQL |
+| **AI & LLMs** | RAG Pipelines, LangChain, Prompt Engineering, Local LLMs (Ollama/Docker) |
+| **Automation** | n8n, Power Automate, Google Apps Script |
+| **Cloud & DevOps** | **Google Cloud Platform** (Arcade Champion), Azure Functions, Docker |
+| **GenAI Media** | Stable Diffusion, Flux, AnimateDiff, ComfyUI |
+
+---
+
+### 📜 Experience & Achievements
+
+* **Head of Automation Department:** Leading automation initiatives for my college club.
+* **AI Researcher Intern:** 14-day intensive research program (Nov 2025).
+* **AI & Cloud Intern:** Completed 4-week internship with AICTE Edunet Foundation & IBM.
+* **Google Cloud Arcade Champion:** Recognized for proficiency in GCP tools (Bigtable, Looker, Cloud Run).
+
+---
+
+### 🚀 Let's Connect
+I am always looking to collaborate on projects involving **AI Agents**, **RAG Systems**, or **SaaS Automation**.
+
+---
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
@@ -19,7 +68,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=aditya452007&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-aditya452007/aditya452007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
